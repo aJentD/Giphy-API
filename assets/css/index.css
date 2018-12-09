@@ -1,0 +1,16 @@
+body{
+    background-color: navy;
+    color: whitesmoke;
+}
+
+#search-box{
+    width: 15%;
+    float: right;
+    margin-right: 100px;
+}
+
+#gif-load{
+    width: 66%;
+    float: left;
+    margin-left: 100px;
+}
